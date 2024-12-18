@@ -1,5 +1,18 @@
 #!/usr/bin/python
 
+# --------------------------------------------------------
+# |       sentenceLength - a string length checker       |
+# --------------------------------------------------------
+#
+#
+# ~~~~~~~~~~~~~~~~~~~~~ Information ~~~~~~~~~~~~~~~~~~~
+# / Licensed under the MIT license                    \
+# | Made in Python                                    |
+# | Supported for all OSes with Python installed      |
+# \ for contributing guidelines, see CONTRIBUTING.md  /
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 print("----- setenceLength -----")
 
 while True:
