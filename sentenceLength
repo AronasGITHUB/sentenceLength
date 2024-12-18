@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+print("----- setenceLength -----")
+
+while True:
+    string = input("(sentence) > ")
+
+    print(len(string))
