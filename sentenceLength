@@ -11,7 +11,11 @@
 # | Supported for all OSes with Python installed      |
 # \ for contributing guidelines, see CONTRIBUTING.md  /
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+#
+#  -----------------------------------------
+# / Dont worry, *   *     *  *   *    *   * \
+# \   *     *    *    be happy! *   *   *   /
+#  -----------------------------------------
 
 print("----- setenceLength -----")
 
