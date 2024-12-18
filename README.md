@@ -1,1 +1,2 @@
 # sentenceLength
+string length checker
