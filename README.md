@@ -1,2 +1,2 @@
 # sentenceLength
-string length checker
+string length checker, made in Python
